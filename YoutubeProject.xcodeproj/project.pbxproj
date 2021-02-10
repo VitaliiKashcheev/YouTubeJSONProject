@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		A55F273CD4BCDD57DA5AAB68 /* Pods_YoutubeProject.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1A9F13D104BAA197E1982A0E /* Pods_YoutubeProject.framework */; };
+		BA1BFF8E25D4711500850775 /* GetDataUsingAlamofire.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA1BFF8D25D4711500850775 /* GetDataUsingAlamofire.swift */; };
 		BA34088D25C0A3F0005966FC /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA34088C25C0A3F0005966FC /* AppDelegate.swift */; };
 		BA34088F25C0A3F0005966FC /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA34088E25C0A3F0005966FC /* ViewController.swift */; };
 		BA34089225C0A3F1005966FC /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BA34089025C0A3F1005966FC /* Main.storyboard */; };
@@ -20,6 +21,7 @@
 
 /* Begin PBXFileReference section */
 		1A9F13D104BAA197E1982A0E /* Pods_YoutubeProject.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_YoutubeProject.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		BA1BFF8D25D4711500850775 /* GetDataUsingAlamofire.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GetDataUsingAlamofire.swift; sourceTree = "<group>"; };
 		BA34088925C0A3F0005966FC /* YoutubeProject.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = YoutubeProject.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BA34088C25C0A3F0005966FC /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		BA34088E25C0A3F0005966FC /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -93,6 +95,7 @@
 				BA34089325C0A3F1005966FC /* YoutubeProject.xcdatamodeld */,
 				BAE81AAE25C70C2E00CF41E9 /* JSONStruct.swift */,
 				BAE81AB025C70D3D00CF41E9 /* DataLoader.swift */,
+				BA1BFF8D25D4711500850775 /* GetDataUsingAlamofire.swift */,
 			);
 			path = YoutubeProject;
 			sourceTree = "<group>";
@@ -219,6 +222,7 @@
 				BA34088F25C0A3F0005966FC /* ViewController.swift in Sources */,
 				BA34088D25C0A3F0005966FC /* AppDelegate.swift in Sources */,
 				BAE81AAF25C70C2E00CF41E9 /* JSONStruct.swift in Sources */,
+				BA1BFF8E25D4711500850775 /* GetDataUsingAlamofire.swift in Sources */,
 				BA34089525C0A3F1005966FC /* YoutubeProject.xcdatamodeld in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
